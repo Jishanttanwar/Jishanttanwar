@@ -89,7 +89,7 @@ RESTful API developed using Django REST Framework following industry-standard ba
 
 🎓 College Email: **jishant.25bhi10093@vitbhopal.ac.in**
 
-🔗 LinkedIn: **Add Your LinkedIn URL Here**
+🔗 LinkedIn: **https://www.linkedin.com/in/jishant-tanwar-0a5991333/**
 
 ---
 
