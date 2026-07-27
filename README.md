@@ -1,101 +1,143 @@
-<h1 align="center">Hi 👋, I'm Jishant Tanwar</h1>
-<h3 align="center">Backend Developer | CSE (Health Informatics) Student | Django Enthusiast</h3>
+# 👋 Hi, I'm Jishant Tanwar
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jishant%20Tanwar&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20•%20Django%20•%20Health%20Informatics&descAlignY=60"/>
+
+### 🚀 Backend Developer • Django Enthusiast • Health Informatics Student
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Production-Ready+Backends;Python+%7C+Django+%7C+DRF;Healthcare+Technology;System+Design+Learner;Always+Learning+🚀"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=Jishanttanwar&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/Jishanttanwar?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Jishanttanwar?affiliations=OWNER&style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+## 💫 About Me
+
+```python
+class JishantTanwar:
+    role = "Backend Developer"
+    university = "VIT Bhopal University"
+    specialization = "Health Informatics"
+
+    languages = ["Python", "C++", "SQL"]
+    backend = ["Django", "Django REST Framework", "REST APIs", "JWT"]
+    database = ["MySQL"]
+
+    currently_learning = [
+        "Advanced Django",
+        "System Design",
+        "DSA",
+        "API Security"
+    ]
+
+    mission = "Build reliable healthcare software."
+```
+
+- 🏥 Building **HealthConnect**
+- 💊 Working on an **AI Drug Interaction Checker**
+- 🌱 Learning **System Design** and **Advanced DRF**
+- 💼 Seeking Backend Development opportunities
+
+---
+
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jishanttanwar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://skillicons.dev/icons?i=python,django,cpp,mysql,git,github,vscode,postman"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Featured Projects
 
-🎓 Computer Science & Engineering (Health Informatics) Student at VIT Bhopal University
-
-💻 Passionate about Backend Development, Healthcare Technology, and Problem Solving
-
-🌱 Currently Learning:
-- Django
-- Django REST Framework (DRF)
-- C++ for Data Structures & Algorithms
-- System Design Fundamentals
-
-🏥 Interested in:
-- Health Informatics
-- Healthcare Software Systems
-- REST API Development
-- Database Design
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🏥 HealthConnect
-Healthcare management platform built with Django and MySQL featuring appointment booking, patient management, and role-based access.
-
-### 🗄️ Hospital Appointment Database
-Database management system designed using SQL and MySQL for hospital appointment scheduling and management.
-
-### 🍽️ Little Lemon API
-RESTful API developed using Django REST Framework following industry-standard backend practices.
+| Project | Description |
+|---------|-------------|
+| 🏥 **HealthConnect** | Healthcare management platform with JWT, appointments, prescriptions, patients, doctors and RBAC. |
+| 💊 **AI Drug Interaction Checker** | AI-powered healthcare assistant to detect and explain drug interactions. |
+| 🍽 **Little Lemon API** | Production-style REST API built with Django REST Framework. |
+| 🗄 **Hospital Appointment Database** | Relational database design using SQL and MySQL. |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jishanttanwar&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jishanttanwar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishanttanwar&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishanttanwar&layout=compact&theme=github_dark" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=Jishanttanwar&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jishanttanwar&theme=tokyo-night&hide_border=true"/>
+
+---
+
+## 🏆 Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Jishanttanwar&theme=tokyonight&no-frame=true&column=4"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+> Enable the GitHub Action in `.github/workflows/snake.yml` to generate this animation.
+
+```md
+<img src="https://raw.githubusercontent.com/Jishanttanwar/Jishanttanwar/output/github-contribution-grid-snake-dark.svg"/>
+```
 
 ---
 
 ## 🎯 2026 Goals
 
-- Build and deploy HealthConnect
-- Master Django REST Framework
-- Strengthen DSA with C++
-- Contribute to Open Source
-- Secure a Backend Development Internship
+- ✅ Complete HealthConnect
+- 🤖 Finish AI Drug Interaction Checker
+- 📚 Master Django REST Framework
+- 🧠 Improve System Design skills
+- 💻 Solve 300+ DSA problems
+- 🌍 Contribute to Open Source
+- 💼 Secure a Backend Internship
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-📧 Personal Email: **princetanwar995@gmail.com**
+<p align="center">
+<a href="mailto:princetanwar995@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🎓 College Email: **jishant.25bhi10093@vitbhopal.ac.in**
+<a href="https://www.linkedin.com/in/jishant-tanwar-0a5991333/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🔗 LinkedIn: **https://www.linkedin.com/in/jishant-tanwar-0a5991333/**
+<a href="https://github.com/Jishanttanwar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, feel free to explore my repositories!
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient"/>
 
 <!--
 **Jishanttanwar/Jishanttanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
