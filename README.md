@@ -1,86 +1,196 @@
-<h1 align="center">Hi 👋, I'm Jishant Tanwar</h1>
-<h3 align="center">Backend Developer | CSE (Health Informatics) Student | Django Enthusiast</h3>
+# Hi 👋, I'm Jishant Tanwar
+
+### Backend Developer | Django & REST APIs | CSE (Health Informatics) @ VIT Bhopal
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jishanttanwar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Jishanttanwar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Science & Engineering (Health Informatics) Student at VIT Bhopal University
+🎓 Computer Science & Engineering (Health Informatics) student at **VIT Bhopal University**
 
-💻 Passionate about Backend Development, Healthcare Technology, and Problem Solving
+💻 Backend developer working with **Python, Django and Django REST Framework**
 
-🌱 Currently Learning:
-- Django
-- Django REST Framework (DRF)
-- C++ for Data Structures & Algorithms
-- System Design Fundamentals
+🏥 Interested in building software for **healthcare and healthcare management**
 
-🏥 Interested in:
-- Health Informatics
-- Healthcare Software Systems
-- REST API Development
-- Database Design
+🗄️ Comfortable working with **SQL and MySQL databases**
+
+🔌 Experienced in developing and connecting **REST APIs with frontend applications**
+
+🧠 Practicing **Data Structures & Algorithms using C++**
+
+⚙️ I enjoy building practical backend applications, designing databases and solving programming problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ### Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-red?style=for-the-badge)
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🏥 HealthConnect
-Healthcare management platform built with Django and MySQL featuring appointment booking, patient management, and role-based access.
 
-### 🗄️ Hospital Appointment Database
-Database management system designed using SQL and MySQL for hospital appointment scheduling and management.
+A healthcare management platform built using **Django, Django REST Framework and MySQL**.
 
-### 🍽️ Little Lemon API
-RESTful API developed using Django REST Framework following industry-standard backend practices.
+The project includes a working backend connected to a frontend application and database.
+
+#### What I built
+
+- Patient management
+- Doctor management
+- Appointment management
+- Role-based access
+- REST API endpoints
+- MySQL database integration
+- Backend and frontend integration
+- Healthcare management workflows
+
+**Technologies:**  
+`Python` `Django` `Django REST Framework` `MySQL` `REST APIs`
+
+🔗 [View HealthConnect](https://github.com/Jishanttanwar/HealthConnect)
 
 ---
 
-## 📈 GitHub Statistics
+### 💊 SafeMeds
+
+A healthcare application focused on medication-related information and healthcare functionality.
+
+The project currently has a working **Django backend**, frontend integration and database connectivity.
+
+#### What I built
+
+- Django backend
+- REST API-based backend functionality
+- Database integration
+- Frontend-backend communication
+- Healthcare-focused application structure
+
+**Technologies:**  
+`Python` `Django` `Django REST Framework` `MySQL`
+
+---
+
+### 🗄️ Hospital Appointment Database
+
+A hospital appointment database management project developed using **SQL and MySQL**.
+
+#### What I worked with
+
+- Relational database design
+- SQL queries
+- MySQL
+- Hospital appointment data
+- Database management
+
+🔗 [View Hospital Appointment Database](https://github.com/Jishanttanwar/Hospital_appointment_db)
+
+---
+
+### 🍋 Little Lemon API
+
+A RESTful API developed using **Django REST Framework**.
+
+#### What I worked with
+
+- Django
+- Django REST Framework
+- REST API development
+- API endpoints
+- Backend application structure
+- Database-backed API functionality
+
+🔗 [View Little Lemon API](https://github.com/Jishanttanwar/little_lemon_restaurant)
+
+---
+
+## 💻 What I Can Do
+
+- 🐍 Build backend applications using **Python and Django**
+- 🔌 Develop **REST APIs using Django REST Framework**
+- 🗄️ Work with **MySQL and SQL databases**
+- 🌐 Connect backend APIs with frontend applications
+- 📅 Build appointment and management systems
+- 👥 Implement role-based functionality
+- 🏥 Develop healthcare-focused software
+- 🔧 Use Git and GitHub for version control
+- 🧠 Solve programming problems using **C++ and Data Structures & Algorithms**
+
+---
+
+## 📚 Currently Improving
+
+- Django & Django REST Framework
+- REST API development
+- Data Structures & Algorithms with C++
+- Database design
+- Backend development
+- Software architecture
+
+---
+
+## 🎯 My Focus
+
+My current focus is on becoming a stronger **backend developer** by building real-world applications and improving my understanding of:
+
+```text
+Python
+   ↓
+Django
+   ↓
+Django REST Framework
+   ↓
+REST APIs
+   ↓
+MySQL
+   ↓
+Full Backend Applications
+```
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jishanttanwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishanttanwar&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Jishanttanwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
 </p>
 
 <p align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jishanttanwar&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com?user=Jishanttanwar&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jishanttanwar&theme=tokyonight&hide_border=true" alt="Jishant's GitHub Streak" />
 </p>
 
 ## 🎯 2026 Goals
@@ -104,8 +214,9 @@ RESTful API developed using Django REST Framework following industry-standard ba
 ---
 
 <p align="center">
-  ⭐ If you like my work, feel free to explore my repositories!
+  ⭐ Thanks for visiting my profile!
 </p>
+
 
 <!--
 **Jishanttanwar/Jishanttanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
