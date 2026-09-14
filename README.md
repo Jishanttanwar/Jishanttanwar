@@ -20,8 +20,6 @@
 
 🔌 Experienced in developing and connecting **REST APIs with frontend applications**
 
-🧠 Practicing **Data Structures & Algorithms using C++**
-
 ⚙️ I enjoy building practical backend applications, designing databases and solving programming problems.
 
 ---
