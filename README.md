@@ -74,7 +74,7 @@ I'm a Computer Science student focused on Health Informatics, working across ful
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jishanttanwar&show_icons=true&theme=radical&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishanttanwar&layout=compact&theme=radical&hide_border=true" width="48%" />
-
+<img src="https://komarev.com/ghpvc/?username=Jishanttanwar&style=flat-square&color=2E9EF7" alt="profile views"/>
 </div>
 
 ---
