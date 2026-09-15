@@ -1,155 +1,98 @@
-# Hi 👋, I'm Jishant Tanwar
+<div align="center">
 
-### Backend Developer | Django & REST APIs | CSE (Health Informatics) @ VIT Bhopal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jishant%20Tanwar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2B%20AI%2FML%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jishanttanwar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+at+the+Intersection+of+Software+%26+Healthcare;CSE+Student+%7C+Health+Informatics;Django+%2B+React+%2B+AI%2FML" alt="Typing SVG" />
 
----
+<img src="https://komarev.com/ghpvc/?username=Jishanttanwar&style=flat-square&color=2E9EF7" alt="profile views"/>
 
-## 🚀 About Me
-
-🎓 Computer Science & Engineering (Health Informatics) student at **VIT Bhopal University**
-
-💻 Backend developer working with **Python, Django and Django REST Framework**
-
-🏥 Interested in building software for **healthcare and healthcare management**
-
-🗄️ Comfortable working with **SQL and MySQL databases**
-
-🔌 Experienced in developing and connecting **REST APIs with frontend applications**
-
-⚙️ I enjoy building practical backend applications, designing databases and solving programming problems.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### About Me
 
-### Languages
+I'm a Computer Science student focused on Health Informatics, working across full-stack development and AI/ML — with a particular interest in applying software to healthcare problems. My current focus is building a solid backend engineering foundation (Django, REST APIs, auth systems) before moving deeper into applied AI/ML work.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+- 🩺 Interested in the intersection of **software engineering** and **healthcare technology**
+- 🔭 Currently building backend systems with **Django** and **REST APIs**
+- 🌱 Learning system design, applied AI/ML, and better engineering practices
 
 ---
 
-## 💻 What I Can Do
+### 🛠️ Tech Stack
 
-- 🐍 Build backend applications using **Python and Django**
-- 🔌 Develop **REST APIs using Django REST Framework**
-- 🗄️ Work with **MySQL and SQL databases**
-- 🌐 Connect backend APIs with frontend applications
-- 📅 Build appointment and management systems
-- 👥 Implement role-based functionality
-- 🏥 Develop healthcare-focused software
-- 🔧 Use Git and GitHub for version control
-- Also focusing on learning DSA in C++
-- 🧠 Solve programming problems using **C++ and Data Structures & Algorithms**
+<div align="center">
 
----
+**Languages**
 
-## 📚 Currently Improving
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- Django & Django REST Framework
-- REST API development
-- Data Structures & Algorithms with C++
-- Database design
-- Backend development
-- Software architecture
+**Frontend**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-## 🎯 My Focus
+**Backend**
 
-My current focus is on becoming a stronger **backend developer** by building real-world applications and improving my understanding of:
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
 
-```text
-Python
-   ↓
-Django
-   ↓
-Django REST Framework
-   ↓
-REST APIs
-   ↓
-MySQL
-   ↓
-Full Backend Applications
-```
+**AI/ML**
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-5C3EE8?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+### 🧭 Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jishanttanwar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-</p>
+- ⚙️ Full-stack web applications with Django + React
+- 🧠 AI/ML fundamentals and applied healthcare use cases
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jishanttanwar&theme=tokyonight&hide_border=true" alt="Jishant's GitHub Streak" />
-</p>
+### 📚 What I'm Learning
 
-## 🎯 2026 Goals
-
-- Build and deploy HealthConnect
-- Master Django REST Framework
-- Strengthen DSA with C++
-- Contribute to Open Source
-- Secure a Backend Development Internship
+- Advanced backend engineering and system design
+- Applied AI/ML (beyond coursework, toward real projects)
+- API design best practices
+- Better software engineering habits — testing, documentation, deployment
 
 ---
 
-## 📫 Connect With Me
 
-📧 Personal Email: **princetanwar995@gmail.com**
+### 📊 GitHub Stats
 
-🎓 College Email: **jishant.25bhi10093@vitbhopal.ac.in**
+<div align="center">
 
-🔗 LinkedIn: **https://www.linkedin.com/in/jishant-tanwar-0a5991333/**
+<img src="https://github-readme-stats.vercel.app/api?username=Jishanttanwar&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishanttanwar&layout=compact&theme=radical&hide_border=true" width="48%" />
+
+</div>
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+### 📫 Connect With Me
 
+<div align="center">
 
-<!--
-**Jishanttanwar/Jishanttanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jishant-tanwar-0a5991333/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jishanttanwar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:princetanwar995@gmail.com)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
+
+*Building systems that hold up under real use — one commit at a time.*
+
+</div>
