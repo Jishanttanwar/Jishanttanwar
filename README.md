@@ -68,6 +68,7 @@
 - 👥 Implement role-based functionality
 - 🏥 Develop healthcare-focused software
 - 🔧 Use Git and GitHub for version control
+- Also focusing on learning DSA in C++
 - 🧠 Solve programming problems using **C++ and Data Structures & Algorithms**
 
 ---
