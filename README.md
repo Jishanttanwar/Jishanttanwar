@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+at+the+Intersection+of+Software+%26+Healthcare;CSE+Student+%7C+Health+Informatics;Django+%2B+React+%2B+AI%2FML" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=Jishanttanwar&style=flat-square&color=2E9EF7" alt="profile views"/>
+
 
 </div>
 
