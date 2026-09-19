@@ -16,7 +16,7 @@ I'm a Computer Science student focused on Health Informatics, working across ful
 
 - 🩺 Interested in the intersection of **software engineering** and **healthcare technology**
 - 🔭 Currently building backend systems with **Django** and **REST APIs**
-- 🌱 Learning system design, applied AI/ML and also  better engineering practices
+- 🌱 Learning system design, applied AI/ML and also better engineering practices
 
 ---
 
